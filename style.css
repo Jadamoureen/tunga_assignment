@@ -1,0 +1,69 @@
+body{
+    background-image: url(wallpaper.jpg); 
+    height: 100vh;
+    background-size: cover;
+    background-position: center ;
+}
+
+.login{
+    width: 360px;
+    padding: 10% 0 0;
+    margin: auto; 
+}
+
+.form{
+    position: relative;
+    z-index: 1;
+    background: darkslategrey;
+    max-width: 360px;
+    margin: 0 auto 100px;
+    padding: 45px;
+    text-align: left;
+}
+
+.form input{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    outline: 1;
+    background: lightslategrey;
+    width: 100%;
+    border: 0;
+    margin: 0 0 15px;
+    box-sizing: border-box;
+    font-size: medium;
+    
+}
+
+.form button{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: uppercase;
+    outline: 0;
+    background: thistle;
+    width: 100%;
+    border: 0;
+    padding: 15px;
+    color: teal;
+    font-size: medium;
+    cursor: pointer;
+}
+
+.form button:hover, .form button:active{
+    background: chocolate;
+}
+
+.form .message{
+    margin: 15px 0 0;
+    color: floralwhite;
+    font-size: medium;
+}
+
+.form .message a{
+    color: blue;
+    text-decoration: none;
+
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
