@@ -8,26 +8,41 @@ Creating a blog application that stores user details on the local storage (brows
  HTML will be referred to as the physical body, CSS will be the body’s accessories and JavaScript is the body’s ability to talk or move. All of these ‘bodily aspects’ need to work together to form a functional, visually appealing, interactive website.
 
 ### HTML
+
 *The Body
+
 *HyperText Markup Language (HTML)
+
 *Content and basic structure
+
 *Describes and defines
+
 *Made up of tags
+
 *Tells the browser what to display
 
 ### CSS
+
 *The Accessories
+
 *Cascading Style Sheet (CSS)
+
 *Gives style and structure to the content
+
 *Link the CSS file to the HTML
+
 *Tells the browser how to display
 
 ### JavaScript
 
 *The body’s ability to perform actions
+
 *JavaScript is not Java
+
 *Behaviour of the website
+
 *Used for interactive functionality
+
 *Allows for the user to interact with the browser
 
 ### Localstorage
