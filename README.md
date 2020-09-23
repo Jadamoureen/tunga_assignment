@@ -23,6 +23,7 @@ Creating a blog application that stores user details on the local storage (brows
 *Tells the browser how to display
 
 ### JavaScript
+
 *The body’s ability to perform actions
 *JavaScript is not Java
 *Behaviour of the website
